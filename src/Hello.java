@@ -11,6 +11,6 @@ public class Hello{
 
 @Override
 public String toString() {
-	return "Hello [toString()=" + super.toString() + "]";
+	return "Hello change [toString()=" + super.toString() + "]";
 }
 }
